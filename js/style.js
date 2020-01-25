@@ -37,8 +37,6 @@ $('.burger-wrap').on('click', function(){
 })
 
 
-
-
 $('.wrap_cards').on('click', function(e) {
 	var target = $(e.target);
 	var popup = $('.popup');
